@@ -1,4 +1,5 @@
 SQL Query API (506a)
+
 **What it is:** A fucking SQL gateway that accepts any SQL query and returns results in JSON. The database is SQLite-compatible, running on goddamn powerful servers. You pay once for lifetime access, not for hardware.
 Endpoint
 `POST https://506a.sqlprov.workers.dev`
